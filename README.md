@@ -41,7 +41,7 @@ The app also stores preferences and cached data for better offline experience. T
   <tr>
     <td><img src="screenshots/main.png" width="200"/></td>
     <td><img src="screenshots/weather.png" width="200"/></td>
-    <td><img src="screenshots/details.png" width="200"/></td>
+    <td><img src="screenshots/d.png" width="200"/></td>
     <td><img src="screenshots/forecast.png" width="200"/></td>
   </tr>
 </table>
