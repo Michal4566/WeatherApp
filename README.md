@@ -2,7 +2,7 @@
 
 **WeartherApp** is an Android weather app built with Kotlin.  
 It shows current weather, detailed conditions, and a 5-day forecast, with support for phone and tablet layouts.  
-The app also stores preferences and cached data for better offline experience. The app integrates with **OpenWeatherMap API** via Retrofit.
+The app also stores preferences and cached data for better offline experience. The app integrates with **OpenWeatherMap API** via **Retrofit**.
 
 ## Features
 - **Current weather** view (temperature, feels-like, min/max, pressure, description, icon)
