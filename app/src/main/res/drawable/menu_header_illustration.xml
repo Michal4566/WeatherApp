@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="132dp"
+    android:viewportWidth="360"
+    android:viewportHeight="132">
+
+    <!-- === SŁOŃCE === -->
+    <path
+        android:fillColor="#18FFD166"
+        android:pathData="M220,38 a42,42 0 1,0 84,0 a42,42 0 1,0 -84,0" />
+    <path
+        android:fillColor="#28FFD166"
+        android:pathData="M232,38 a30,30 0 1,0 60,0 a30,30 0 1,0 -60,0" />
+    <path
+        android:fillColor="#FFFFD166"
+        android:pathData="M242,38 a20,20 0 1,0 40,0 a20,20 0 1,0 -40,0" />
+
+    <!-- Promienie słońca -->
+    <path android:strokeColor="#AAFFD166" android:strokeLineCap="round" android:strokeWidth="3.5" android:pathData="M262,10 L262,3" />
+    <path android:strokeColor="#AAFFD166" android:strokeLineCap="round" android:strokeWidth="3.5" android:pathData="M279,17 L285,11" />
+    <path android:strokeColor="#AAFFD166" android:strokeLineCap="round" android:strokeWidth="3.5" android:pathData="M288,38 L296,38" />
+    <path android:strokeColor="#AAFFD166" android:strokeLineCap="round" android:strokeWidth="3.5" android:pathData="M279,59 L285,65" />
+    <path android:strokeColor="#AAFFD166" android:strokeLineCap="round" android:strokeWidth="3.5" android:pathData="M262,66 L262,73" />
+    <path android:strokeColor="#AAFFD166" android:strokeLineCap="round" android:strokeWidth="3.5" android:pathData="M245,59 L239,65" />
+    <path android:strokeColor="#AAFFD166" android:strokeLineCap="round" android:strokeWidth="3.5" android:pathData="M236,38 L228,38" />
+    <path android:strokeColor="#AAFFD166" android:strokeLineCap="round" android:strokeWidth="3.5" android:pathData="M245,17 L239,11" />
+
+    <!-- === CHMURY === -->
+    <path
+        android:fillColor="#12FFFFFF"
+        android:pathData="M-8,100 Q-6,87 10,84 Q12,72 30,75 Q36,62 55,66 Q64,54 82,59 Q94,51 106,59 Q116,53 124,64 Q136,64 134,77 Q144,79 142,92 Q150,98 144,106 Z" />
+    <path
+        android:fillColor="#20FFFFFF"
+        android:pathData="M15,118 Q13,105 28,101 Q30,89 49,91 Q53,78 73,81 Q80,68 99,72 Q110,62 128,68 Q140,60 157,68 Q168,62 178,73 Q192,71 192,85 Q204,87 202,100 Q210,107 206,116 Z" />
+    <path
+        android:fillColor="#18FFFFFF"
+        android:pathData="M178,132 Q176,119 191,116 Q193,106 208,108 Q212,97 227,100 Q234,90 249,94 Q260,88 270,97 Q280,92 288,102 Q298,102 296,113 Q304,117 300,126 Z" />
+
+    <!-- === GWIAZDY === -->
+    <path android:fillColor="#CCFFFFFF" android:pathData="M27,30 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0" />
+    <path android:fillColor="#88FFFFFF" android:pathData="M68,17 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+    <path android:fillColor="#AAFFFFFF" android:pathData="M113,26 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+    <path android:fillColor="#77FFFFFF" android:pathData="M156,13 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+    <path android:fillColor="#99FFFFFF" android:pathData="M194,21 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+    <path android:fillColor="#66FFFFFF" android:pathData="M330,16 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+    <path android:fillColor="#55FFFFFF" android:pathData="M348,42 a1,1 0 1,0 2,0 a1,1 0 1,0 -2,0" />
+
+    <!-- === LINIE WIATRU === -->
+    <path android:strokeColor="#22FFFFFF" android:strokeLineCap="round" android:strokeWidth="2"   android:pathData="M42,50 Q60,44 80,50" />
+    <path android:strokeColor="#1AFFFFFF" android:strokeLineCap="round" android:strokeWidth="1.5" android:pathData="M30,62 Q52,55 72,62" />
+    <path android:strokeColor="#14FFFFFF" android:strokeLineCap="round" android:strokeWidth="1.5" android:pathData="M55,72 Q72,66 90,72" />
+
+</vector>
+

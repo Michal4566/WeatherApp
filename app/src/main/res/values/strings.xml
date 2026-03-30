@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Pogodaa</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_quick_actions">Szybkie akcje</string>
+    <string name="menu_subtitle">Zarządzaj lokalizacją i odświeżaj dane w kilka sekund.</string>
+    <string name="menu_header_content_description">Dekoracyjna grafika pogodowa</string>
+    <string name="weather_now_label">Aktualnie</string>
+    <string name="weather_pressure_label">Ciśnienie</string>
+    <string name="weather_updated_label">Ostatnia aktualizacja</string>
+    <string name="details_title">Szczegóły</string>
+    <string name="details_subtitle">Najważniejsze parametry bieżącej pogody.</string>
+    <string name="forecast_title">Prognoza 5 dni</string>
+    <string name="forecast_subtitle">Sprawdź trend temperatury i warunków na najbliższe dni.</string>
+    <string name="weather_icon_content_description">Ikona aktualnej pogody</string>
+    <string name="forecast_icon_content_description">Ikona prognozy pogody</string>
+    <string name="details_wind_label">Wiatr</string>
+    <string name="details_humidity_label">Wilgotność</string>
+    <string name="details_visibility_label">Widoczność</string>
+    <string name="details_metric_icon_content_description">Ikona parametru pogodowego</string>
+    <string name="forecast_today_label">Dziś</string>
+    <string name="weather_feels_like_label">Odczuwalna</string>
+    <string name="weather_temp_range_label">Min / Max</string>
+    <string name="details_clouds_label">Zachmurzenie</string>
+    <string name="details_sunrise_label">Wschód słońca</string>
+    <string name="details_sunset_label">Zachód słońca</string>
+    <string name="forecast_rain_label">Opady</string>
+</resources>

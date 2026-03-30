@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_indigo">#7190FF</color>
+    <color name="accent_cyan">#7FE7FF</color>
+    <color name="accent_cyan_soft">#337FE7FF</color>
+    <color name="accent_sun">#FFD98A</color>
+
+    <color name="bg_start">#050B18</color>
+    <color name="bg_center">#112440</color>
+    <color name="bg_end">#190A34</color>
+    <color name="bg_glow_top">#4467C8FF</color>
+    <color name="bg_glow_bottom">#3337D6C2</color>
+
+    <color name="glass_white">#19FFFFFF</color>
+    <color name="glass_white_stroke">#3DFFFFFF</color>
+    <color name="surface_glass_strong">#24FFFFFF</color>
+    <color name="surface_glass_deep">#24060D17</color>
+
+    <color name="text_main">#F8FBFF</color>
+    <color name="text_secondary">#D7E2F3</color>
+    <color name="text_dim">#A8BCD5</color>
+
+    <color name="temp_hot">#FFB067</color>
+    <color name="temp_cold">#85DDFF</color>
+</resources>
+
